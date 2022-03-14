@@ -60,6 +60,4 @@ public class BookController {
         mav.addObject("evaluations",evaluations);
         return mav;
     }
-
-
 }
